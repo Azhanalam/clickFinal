@@ -1,0 +1,69 @@
+.PRODUCTImage{
+    
+    max-width: 90%;
+    height: auto;
+    box-shadow: 1px 1px 3px 3px white;
+    margin-top: 10px;
+    margin-left: 21px;
+}
+
+.PRODUCTDETAILS{
+    box-shadow: 1px 1px 3px 3px white;
+    max-width: 37.5%;
+    margin-left: 18px;
+    margin-top: 12px;
+}
+.image{
+    width: 77%;
+    margin-left: 65px;
+    height: auto;
+    position: relative;
+}
+
+.PRODUCT{
+    font-size: 25px;
+    margin-top: -8px;
+    font-weight: 600;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 0.2px;
+    line-height: 22px;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: none;
+}
+.Button{
+    box-shadow: 1px 1px 3px 3px white;
+    max-width: 39.5%;
+    margin-left: 343px;
+    margin-top: -140px;
+}
+
+.AMOUNT{
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 0.2px;
+    font-size: 25px;
+    line-height: 22px;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: none;
+    font-weight: 800;
+    color: #40dbed;
+}
+
+.SIZE{
+        font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-size: 20px;
+    line-height: 22px;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: none;
+    }
+
+    .BUTTON{
+        width: 335px;
+    font-size: 24px;
+    height: 54px;
+    position: relative;
+    background: #cc961a;
+    /* margin-left: 340px !important; */
+    margin-top: -110px !important;
+    }

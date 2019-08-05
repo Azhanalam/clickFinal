@@ -1,0 +1,62 @@
+.HEADER{
+    background: black;
+    color: white;
+    font-size: 17px;
+    height: 50px !important;
+}
+.LOGOHEADER{
+    height: 50px !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%  !important;
+    /* background: #19194A; */
+}
+.companyName{
+    font-size: 150%;
+}
+
+.mat-toolbar{
+  height: 7vh;
+}
+
+div {
+    overflow: inherit;
+}
+
+.mat-sidenav-container{
+  background-color: rgb(233, 197, 247);
+  min-height: 93vh !important;
+}
+
+.MENU{
+    text-decoration: none;
+    font-size: 164%;
+    white-space: normal;
+}
+
+button{
+    font-size: 110%;
+    min-width: min-content;
+}
+
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: .5 .5 auto;
+  }
+
+  .mat-sidenav-content{
+      font-size: 200%;
+      text-align: center;
+  }
+  .logo{
+    flex: .5 .5 auto;
+  }
+  .logo__image{
+    height: 25px;
+    margin-top: 10px;
+  }

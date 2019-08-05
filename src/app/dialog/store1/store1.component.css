@@ -1,0 +1,19 @@
+.YESBUTTON{
+   color: white;
+   background-color: #318722;
+   margin-left: 369px;
+   width: 84px;
+   margin-top: -1px;
+   font-family: 'Arial';
+ }
+ .NOBUTTON{
+   color: white;
+   background-color: #DD0303;
+   margin-top: -52px;
+   margin-left: 368px !important;
+   width: 84px;
+   font-family: 'Arial';
+ }
+ body{
+    font-family: 'Arial';
+ }

@@ -1,0 +1,192 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Arial';overflow-y: hidden; }
+
+.ordercard
+ {
+  height: 45px;
+  max-width: 89%;
+  margin-top: 2.25%;
+  box-shadow: 1px 1px 3px 3px lightgrey;
+  margin-bottom: 10px;
+  margin-left: 3.5%;
+  background: #C2FECA;
+ }
+ .ordercard1
+ {
+  height: 45px;
+  max-width: 89%;
+  margin-top: 2.25%;
+  box-shadow: 1px 1px 3px 3px lightgrey;
+  margin-bottom: 10px;
+  margin-left: 3.5%;
+  background: #FEF9C2;
+ }
+
+ .CARD{
+  max-width: 40%;
+  margin-top: -23.40%;
+  box-shadow: 1px 1px 3px 3px lightgrey;
+  margin-bottom: 10px;
+  margin-left: 51.5%;
+ }
+ .Order{
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 3.50%;
+  font-family: 'Arial';
+ }
+ .Customer{
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  margin-left: 3.5%;
+  font-family: 'Arial';
+ }
+ .ORDER1{
+  font-size: 20px;
+  font-weight: 600;
+    color: black;
+    margin-left: 49%;
+    margin-top: -7.5%;
+    font-family: 'Arial';
+ }
+ .PICK1{
+  margin-left: 59.5%;
+  font-size: 115%;
+  margin-top: -6.3%;
+  /* font-weight: 500; */
+  font-size: 20px;
+  color: gray;
+  font-family: 'Arial';
+ }
+ .PICK{
+  margin-left: 59.5%;
+  font-size: 115%;
+  margin-top: -6.3%;
+  /* font-weight: 500; */
+  font-size: 20px;
+  color: green;
+  font-family: 'Arial';
+ }
+ .ORDER{
+  font-weight: 600;
+    color: black;
+    margin-left: 49%;
+    font-size: 20px;
+    font-family: Arial;
+ }
+ .DATE{
+  margin-left: 66%;
+    font-size: 116%;
+    margin-top: -6.4%;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Arial';
+ }
+ .HEADER{
+  background: black;
+  color: white;
+  font-size: 17px;
+  height: 50px !important;
+}
+.example-spacer {
+flex: .5 .5 auto;
+}
+.MENU{
+text-decoration: none;
+font-size: 164%;
+white-space: normal;
+}
+.Order_id{
+  margin-top: -8.2%;
+  margin-left: 17%;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: 'Arial';
+}
+.Quantity{
+  margin-top: -6.3%;
+    margin-left: 21.5%;
+    font-weight: 500;
+    font-family: 'Arial';
+    font-size: 20px;
+    color: black;
+}
+ 
+
+/* 
+ @media (min-width: 1281px) {
+
+} */
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+ */
+  
+  /* @media (min-width: 1025px) and (max-width: 1280px) {
+
+  }  */
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) {
+    .form-container{
+        width: 95%;
+        margin: auto;
+        padding-bottom: 24px !important;
+        display: block;
+        background: rgb(253, 253, 253);
+    }
+    .btn{
+        font-size: 1em;
+    }
+  } */
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+ */
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+  }  */
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+
+   */
+  /* @media (min-width: 481px) and (max-width: 767px) {
+    .form-container{
+        width: 95%;
+        margin: auto;
+        padding-bottom: 24px !important;
+        display: block;
+        background: rgb(253, 253, 253);
+    }
+    .btn{
+        font-size: 1em;
+    }
+  }  */
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  
+  */
+  /* @media (min-width: 320px) and (max-width: 480px) {
+    .form-container{
+        width: 95%;
+        margin: auto;
+        padding-bottom: 24px !important;
+        display: block;
+        background: rgb(253, 253, 253);
+    }
+    .btn{
+        font-size: 1em;
+    }
+  } */
